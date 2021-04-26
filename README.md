@@ -1,3 +1,3 @@
-# Your blog
+# Hrushi's blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I write all my blogs under two domains one under hashnode and the other under github.io
