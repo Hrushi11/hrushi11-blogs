@@ -8,4 +8,6 @@ Hope you would love my blogs.
 
 ## Heights for AI
 
-These blogs are also available on hashnode, both of the blogs will be same with just some minor differnces. [Heights For AI](https://heightsforai.hashnode.dev/).
+These blogs are also available on hashnode, both of the blogs will be same with just some minor differnces. You might find some extra blogs here as they might be made in collaboration with other developers. Visit this [link](https://github.com/Hrushi11/Hrushi11.github.io) to know more about the same.
+
+My Blogs on Hashnode - [Heights For AI](https://heightsforai.hashnode.dev/).
