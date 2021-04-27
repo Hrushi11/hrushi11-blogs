@@ -9,4 +9,4 @@ To share your knowledge :
 > then put a PR (Pull Request), then, <br>
 > if your blog is legit, I will accept your PR and post your blog with suitalble credits to you.
 
-You might find some extra content on github.io one because they might have been collaborated with some other person.
+You might find some extra content on `github.io` one because they might have been collaborated with some other person.
