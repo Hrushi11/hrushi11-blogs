@@ -19,7 +19,7 @@ So now, we have a rough idea about what deep learning is and from it, we can sur
 
 ## Neural Networks :
 
-Deep Learning is a very important idea, and to make this idea go on track, we have to use Neural Networks. Neural Networks, in this case, the Artificial Neural Networks (ANNs) more precisely, are similar to biological neurons in our human body. Neurons as in a human body are responsible for transmitting the information of stimulus like touch, similarly, the artificial neuron * (Every single unit in a neural network is called a neuron) * transmits information learned by every neuron to the next neuron in another layer or different similar neurons.
+Deep Learning is a very important idea, and to make this idea go on track, we have to use Neural Networks. Neural Networks, in this case, the Artificial Neural Networks (ANNs) more precisely, are similar to biological neurons in our human body. Neurons as in a human body are responsible for transmitting the information of stimulus like touch, similarly, the artificial neuron *(Every single unit in a neural network is called a neuron)* transmits information learned by every neuron to the next neuron in another layer or different similar neurons.
 
 This is the easiest way to understand what a set of neurons does. Let’s dive deeper and understand how these neural networks are made and how they get their job done. Neurons in artificial neural networks (ANNs) are sometimes even referred to as “nodes”.
 
@@ -40,7 +40,7 @@ The ANN is a complex and vast topic in itself, to begin with, first, we will try
 
 Let's say we are developing an algorithm to predict whether the given picture is a cat or not. The simple cat image which you see here is processed in the given format as the next picture on our computer. 
 
-*Consider this picture as the first image in the training set *
+*Consider this picture as the first image in the training set*
 
 ![complete.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1619242172563/VD2JJqX_H.jpeg)
 
@@ -114,7 +114,7 @@ The orange neurons shown in the above diagram are the ones where the Logistic Re
 
 As you already know about deep learning and up till now you have got an idea about logistic regression as well, let’s try to understand how neural networks work.
 
-Each node to node neural network is a mathematical function that results in output and then these outputs are again passed into some another function to reach the final result. * (This para might be confusing but you would get it more clear in further articles) *
+Each node to node neural network is a mathematical function that results in output and then these outputs are again passed into some another function to reach the final result. *(This para might be confusing but you would get it more clear in further articles)*
 
 This idea of a neural network is all based on the solution to the simple mathematical equation of :
 yhat = P(y=1|X) 
