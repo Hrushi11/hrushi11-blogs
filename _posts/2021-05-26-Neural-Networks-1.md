@@ -108,7 +108,7 @@ Each circle in the diagram is a neuron or a node. The first 4 nodes are called i
 
 ![simple neural network as logistic reg.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1619246256215/edyeOTjbz.jpeg)
 
-The orange neurons shown in the above diagram are the ones where the Logistic Regression cost function * (is discussed in further articles) * comes into action and the orange to blue neuron is the place where the sigmoid function comes into the action.
+The orange neurons shown in the above diagram are the ones where the Logistic Regression cost function *(is discussed in further articles)* comes into action and the orange to blue neuron is the place where the sigmoid function comes into the action.
 
 ## Working of a neural network with logistic regression :
 
